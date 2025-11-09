@@ -7,6 +7,7 @@ function App() {
     <>
       <div>
         Just test
+        update this 
       </div>
     </>
   )
